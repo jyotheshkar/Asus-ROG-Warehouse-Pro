@@ -18,6 +18,9 @@ Then the entire product itself will be removed.
 
 The whole Assessment consists of 3 different parts
 
+![Screenshot 2024-02-14 104615](https://github.com/jyotheshkar/Asus-ROG-warehouse-Pro/assets/96298283/18a742b7-82dc-4fc8-82df-3d42ffebb41a)
+
+
 -> Part 1.1
 
 part one consits of the complete warehouse workflow
